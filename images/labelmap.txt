@@ -1,0 +1,4 @@
+# label:color_rgb:parts:actions
+background:0,0,0::
+obstruction:250,50,83::
+rooftop:255,255,255::
